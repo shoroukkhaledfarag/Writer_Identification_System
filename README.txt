@@ -2,7 +2,7 @@ Description:
 ------------
 
 Writer identification system that will be able to identify a given writer from their handwritten script or text.
-
+Accuracy (%): 88 , Avg Running Time per Test Case (sec):	25.54
 
 To run the project:
 -------------------
